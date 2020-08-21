@@ -14,7 +14,9 @@ We conducted a use case with Kimaris to display its benefits inside a systematic
 
 The Python version using on development is 3.7.6. We strongly recommend using the pyenv virtualenv to create the development environment.
 
-Besides all application is developed on Python, there are some additional modules like *language-check* requires your computer has the *LanguageTool* and *Java 1.8 JDK* installed. Newer versions does not work due a version check on language-check install module. *Make sure you have Java 1.8 installed before proceeding with steps below.*
+Besides all application is developed on Python, there are some additional modules like *language-check* requires your computer has the *LanguageTool* and *Java 1.8 JDK* installed. Newer versions does not work due a version check on language-check install module. 
+
+*Make sure you have Java 1.8 installed before proceeding with steps below.*
 
 
 If you are not familiar with pyenv or either don't have it installed, take a look here.
